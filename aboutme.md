@@ -1,17 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: A brief personal description
+title: About Me
+subtitle: A Brief Personal Description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+My name is Ravneet-Rahul Sandhu Singh. I am originally from India but currently
+living in Spain. I am passionate about programming and working with data. My
+main programming languages are Python, R, and SQL.
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Degree in Biomedical Engineering at UPC (2019 - 2023)
+- Master in Health Data Science at URV (2023 - Present)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+
+- Research Assistant at IBEC (2022-2023)
+
