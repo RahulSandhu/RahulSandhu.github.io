@@ -32,9 +32,6 @@ social-network-links:
 
 title-on-all-pages: true
 
-share-links-active:
-  linkedin: false
-
 excerpt_length: 50
 feed_show_excerpt: true
 feed_show_tags: true
@@ -47,17 +44,17 @@ date_format: "%B %-d, %Y"
 ######################################
 #    Colors & Background Image      #
 ######################################
-page-col: "#FAFAFA"
-text-col: "#222222"
-link-col: "#FF5733"
-hover-col: "#C70039"
-navbar-col: "#FFD700"
-navbar-text-col: "#333333"
-navbar-border-col: "#B8860B"
-footer-col: "#222831"
-footer-text-col: "#EEEEEE"
-footer-link-col: "#00ADB5"
-footer-hover-col: "#007F99"
+page-col: "#FFFFFF"
+text-col: "#1C1C1C"
+link-col: "#FF4500"
+hover-col: "#B22222"
+navbar-col: "#FFA500"
+navbar-text-col: "#101820"
+navbar-border-col: "#FF8C00"
+footer-col: "#1F2833"
+footer-text-col: "#F8F8FF"
+footer-link-col: "#00CED1"
+footer-hover-col: "#008B8B"
 
 #############################################
 #        Default YAML Values               #
@@ -69,7 +66,7 @@ defaults:
     values:
       layout: "post"
       comments: true
-      social-share: true
+      social-share: false
   - scope:
       path: ""
     values:
