@@ -29,10 +29,6 @@ social-network-links:
 ###########################
 #     General Options    #
 ###########################
-share-links-active:
-  email: true
-  github: true
-  linkedin: true
 
 title-on-all-pages: true
 
@@ -48,17 +44,17 @@ date_format: "%B %-d, %Y"
 ######################################
 #    Colors & Background Image      #
 ######################################
-page-col: "#FDFDFD"
-text-col: "#333333"
-link-col: "#0077CC"
-hover-col: "#005F99"
-navbar-col: "#F5F5F5"
-navbar-text-col: "#222222"
-navbar-border-col: "#CCCCCC"
-footer-col: "#F5F5F5"
-footer-text-col: "#555555"
-footer-link-col: "#222222"
-footer-hover-col: "#005F99"
+page-col: "#FAFAFA"
+text-col: "#222222"
+link-col: "#FF5733"
+hover-col: "#C70039"
+navbar-col: "#FFD700"
+navbar-text-col: "#333333"
+navbar-border-col: "#B8860B"
+footer-col: "#222831"
+footer-text-col: "#EEEEEE"
+footer-link-col: "#00ADB5"
+footer-hover-col: "#007F99"
 
 #############################################
 #        Default YAML Values               #
