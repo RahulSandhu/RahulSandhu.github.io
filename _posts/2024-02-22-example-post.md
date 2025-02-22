@@ -3,8 +3,6 @@ layout: post
 title: "Analyzing Respiratory Patterns: A Study on Age and Gender Differences"
 subtitle: "Insights from My Published Paper at EMBC 2024"
 tags: [health data science, respiratory patterns, biomedical research]
-comments: true
-mathjax: true
 author: "Ravneet-Rahul Sandhu Singh"
 ---
 
@@ -26,15 +24,15 @@ gender influence respiratory behavior.
 
 ## Key Findings
 
--**Stronger Correlation with Combined Signals**: The sum of thoracic and
+- **Stronger Correlation with Combined Signals**: The sum of thoracic and
 abdominal bands showed the highest correlation with respiratory volume,
 outperforming individual bands.
--**Gender Differences in Adults**: Gender-related differences were more
+- **Gender Differences in Adults**: Gender-related differences were more
 pronounced in **spontaneous breathing**, with notable distinctions in the
 expiratory phase.
--**Age-Related Variability**: Older subjects exhibited greater variability in
+- **Age-Related Variability**: Older subjects exhibited greater variability in
 **expiratory phase parameters**, suggesting reduced adaptability with age.
--**Clinical Relevance**: These findings highlight the importance of **age and
+- **Clinical Relevance**: These findings highlight the importance of **age and
 gender considerations** in respiratory monitoring and potential diagnostic
 applications.
 
