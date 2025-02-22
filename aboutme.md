@@ -16,4 +16,3 @@ main programming languages are Python, R, and SQL.
 ### Experience
 
 - Research Assistant at IBEC (2022-2023)
-

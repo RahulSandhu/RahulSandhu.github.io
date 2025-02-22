@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Analyzing Respiratory Patterns: A Study on Age and Gender Differences"
-subtitle: "Insights from My Published Paper at EMBC 2024"
+subtitle: "Insights from My Published Paper at EMBC 2023"
 tags: [health data science, respiratory patterns, biomedical research]
 author: "Ravneet-Rahul Sandhu Singh"
 ---
@@ -57,9 +57,11 @@ duration (TTot), and tidal volume (VT)** were analyzed statistically.
 
 ## Results
 
-- The **sum of thoracic and abdominal signals** provided the highest correlation with respiratory volume (**r > 0.9**).
+- The **sum of thoracic and abdominal signals** provided the highest
+correlation with respiratory volume (**r > 0.9**).
 - Expiratory variability increased with age, particularly in basal breathing.
-- Gender-related differences were more significant in the **adult group**, mainly affecting inspiratory and expiratory phases.
+- Gender-related differences were more significant in the **adult group**,
+mainly affecting inspiratory and expiratory phases.
 
 ## Conclusion
 

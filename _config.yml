@@ -1,3 +1,6 @@
+###########################
+#     General Options    #
+###########################
 remote_theme: daattali/beautiful-jekyll@6.0.1
 
 title: Home
@@ -11,6 +14,17 @@ paginate: 5
 
 kramdown:
   input: GFM
+
+title-on-all-pages: true
+
+excerpt_length: 50
+feed_show_excerpt: true
+feed_show_tags: true
+
+post_search: true
+navbar-var-length: false
+
+date_format: "%B %-d, %Y"
 
 ###############################################
 #              Navigation Bar                #
@@ -26,20 +40,6 @@ social-network-links:
   github: "RahulSandhu"
   linkedin: "Ravneet-Rahul Sandhu Singh"
 
-###########################
-#     General Options    #
-###########################
-
-title-on-all-pages: true
-
-excerpt_length: 50
-feed_show_excerpt: true
-feed_show_tags: true
-
-post_search: true
-navbar-var-length: false
-
-date_format: "%B %-d, %Y"
 
 ######################################
 #    Colors & Background Image      #
